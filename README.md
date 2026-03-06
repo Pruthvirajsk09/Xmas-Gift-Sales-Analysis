@@ -64,7 +64,7 @@ Key insights include:
 - Business KPI Development
 - Data Visualization
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 <img width="1101" height="721" alt="Screenshot 2026-03-06 195544" src="https://github.com/user-attachments/assets/74af473b-f5e0-4f9f-8192-e0a9cdb15a27" />
 
