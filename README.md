@@ -92,8 +92,5 @@ Pricing Strategy Analysis
 Add screenshots of the dashboard here.
 
 👤 Author
-
 Pruthviraj Kadam
-Aspiring Data Analyst
-
 Skills: Python, SQL, Power BI, Excel, Data Analysis
