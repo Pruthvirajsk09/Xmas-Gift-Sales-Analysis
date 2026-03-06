@@ -1,7 +1,9 @@
 # Xmas-Gift-Sales-Analysis
 
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjBlMTgyMmYtY2Y2Ni00MDdkLTkxMGItNjBjZGQyZDc3MDI2IiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
+
 🎄 Xmas Gift Sales Analysis
+
 📌 Project Overview
 
 The Xmas Gift Sales Analysis project is an interactive Power BI dashboard built to analyze retail sales performance during the holiday shopping period. The dashboard focuses on understanding product demand, customer purchasing patterns, and pricing strategies to support data-driven business decisions.
