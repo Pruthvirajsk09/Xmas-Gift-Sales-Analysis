@@ -12,18 +12,14 @@ This project demonstrates how data analytics can help businesses identify high-p
 
 📊 Dashboard Pages
 1. Sales Analysis
-
-This page provides an overview of overall sales performance and product demand.
+- This page provides an overview of overall sales performance and product demand.
 
 Key insights include:
 
-Identification of top-selling products based on sales quantity.
-
-Analysis of total revenue and profit performance.
-
-Geographic distribution of sales across different regions.
-
-Sales trends and performance across the time period.
+- Identification of top-selling products based on sales quantity.
+- Analysis of total revenue and profit performance.
+- Geographic distribution of sales across different regions.
+- Sales trends and performance across the time period.
 
 2. Customer Segmentation
 
