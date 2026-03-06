@@ -26,50 +26,41 @@ This page focuses on analyzing customer purchasing behavior and identifying valu
 
 Key insights include:
 
--Customer purchasing patterns across different age groups and genders.
--Identification of cities contributing the most to customer acquisition.
--Analysis of product categories that drive customer retention.
--Understanding customer behavior to support targeted marketing strategies.
+- Customer purchasing patterns across different age groups and genders.
+- Identification of cities contributing the most to customer acquisition.
+- Analysis of product categories that drive customer retention.
+- Understanding customer behavior to support targeted marketing strategies.
 
 3. Pricing Analysis
 
 This page analyzes the impact of pricing on overall profitability.
 
 Key insights include:
--Evaluation of product pricing and cost structure.
--Profitability analysis for different products.
--Dynamic pricing simulations to understand the potential impact of price changes.
--Identification of opportunities to optimize pricing strategies.
+- Evaluation of product pricing and cost structure.
+- Profitability analysis for different products.
+- Dynamic pricing simulations to understand the potential impact of price changes.
+- Identification of opportunities to optimize pricing strategies.
 
 ### 🛠 Tools & Technologies
 
-Power BI – Dashboard development and data visualization
+- Power BI – Dashboard development and data visualization
+- DAX – KPI calculations and measures
+- Excel / CSV Dataset – Data source
+- Data Modeling – Relationship building and data structuring
 
-DAX – KPI calculations and measures
+## 📈 Key Business Insights
 
-Excel / CSV Dataset – Data source
+- Identified products contributing significantly to overall sales performance.
+- Analyzed customer segments to understand purchasing behavior.
+- Evaluated regional sales performance to highlight high-demand markets.
+- Explored pricing strategies to identify potential profit optimization opportunities.
 
-Data Modeling – Relationship building and data structuring
+### 🎯 Skills Demonstrated
 
-📈 Key Business Insights
-
-Identified products contributing significantly to overall sales performance.
-
-Analyzed customer segments to understand purchasing behavior.
-
-Evaluated regional sales performance to highlight high-demand markets.
-
-Explored pricing strategies to identify potential profit optimization opportunities.
-
-🎯 Skills Demonstrated
-
-Data Cleaning and Preparation
-
-Data Modeling
-
-Business KPI Development
-
-Data Visualization
+- Data Cleaning and Preparation
+- Data Modeling
+- Business KPI Development
+- Data Visualization
 
 Customer Segmentation Analysis
 
