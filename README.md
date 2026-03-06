@@ -64,14 +64,14 @@ Key insights include:
 - Business KPI Development
 - Data Visualization
 
-Customer Segmentation Analysis
-<img width="1101" height="721" alt="Screenshot 2026-03-06 195544" src="https://github.com/user-attachments/assets/74af473b-f5e0-4f9f-8192-e0a9cdb15a27" />
-
-Pricing Strategy Analysis
-
 📷 Dashboard Preview
 
-Add screenshots of the dashboard here.
+<img width="1101" height="721" alt="Screenshot 2026-03-06 195544" src="https://github.com/user-attachments/assets/74af473b-f5e0-4f9f-8192-e0a9cdb15a27" />
+
+<img width="1104" height="725" alt="Screenshot 2026-03-06 195619" src="https://github.com/user-attachments/assets/205ae9e8-35ae-4e0f-9ff7-13e4b8afa784" />
+
+<img width="1106" height="724" alt="Screenshot 2026-03-06 195704" src="https://github.com/user-attachments/assets/f306db5b-4c2d-4535-893b-5f33dca0c722" />
+
 
 👤 Author
 Pruthviraj Kadam
