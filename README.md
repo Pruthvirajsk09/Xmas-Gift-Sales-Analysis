@@ -80,6 +80,7 @@ Key insights include:
 
 
 
-👤 Author
+- 👤 Author
 Pruthviraj Kadam
+
 Skills: Python, SQL, Power BI, Excel, Data Analysis
