@@ -12,6 +12,7 @@ This project demonstrates how data analytics can help businesses identify high-p
 
 ### 📊 Dashboard Pages
 1. Sales Analysis
+
 This page provides an overview of overall sales performance and product demand.
 
 Key insights include:
@@ -22,6 +23,7 @@ Key insights include:
 - Sales trends and performance across the time period.
 
 2. Customer Segmentation
+
 This page focuses on analyzing customer purchasing behavior and identifying valuable customer segments.
 
 Key insights include:
